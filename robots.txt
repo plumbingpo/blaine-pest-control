@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blainepestcontrolco.com/sitemap.xml
